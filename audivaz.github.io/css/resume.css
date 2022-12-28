@@ -1,0 +1,44 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 2%;
+
+}
+
+img {
+    width: 80%;
+    height: auto;
+    margin-left: 100px;
+    
+}
+
+
+button {
+    
+    align-content: center;
+    border-style: none;
+}
+
+
+
+a:hover {
+    color: #c2e812;
+    transition: ease-in-out .5s;
+    border-bottom: solid 1px #ee2677;
+}
+
+
+
+
+button a {
+    text-decoration: none;
+    background: #30343F;
+    color: #f1f1f1;
+    padding: 8px;
+    border-radius: 3px;
+}
